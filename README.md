@@ -1,4 +1,4 @@
-# CryptoCurrency Signal
+# 🪙 CryptoCurrency Signal
 
 A simple cryptocurrency technical analysis web app built with PHP and JavaScript. The application currently provides Ichimoku-based signals for various cryptocurrencies, with more indicators coming soon.
 
